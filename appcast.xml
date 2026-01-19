@@ -8,6 +8,17 @@
 
         <!-- New releases will be automatically added below this comment -->
     <item>
+        <title>Version 0.1.0-alpha6</title>
+        <sparkle:version>6</sparkle:version>
+        <sparkle:shortVersionString>0.1.0-alpha6</sparkle:shortVersionString>
+        <pubDate>Mon, 19 Jan 2026 17:48:19 +0000</pubDate>
+        <enclosure
+            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0-alpha6/DockPulse-0.1.0-alpha6.dmg"
+            length="1910610"
+            type="application/x-apple-diskimage"
+            sparkle:edSignature="g3ZMZf54ZOx/DcHKAFwtjF8PgD6yxO8NEOAbpSbBD1gDhSHjCcOrL9TSvFqzAKErZasSCwetX5XP/2CZkK05DQ==" />
+    </item>
+    <item>
         <title>Version 0.1.0-alpha5</title>
         <sparkle:version>5</sparkle:version>
         <sparkle:shortVersionString>0.1.0-alpha5</sparkle:shortVersionString>
