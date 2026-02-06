@@ -7,5 +7,17 @@
         <language>en</language>
 
         <!-- New releases will be automatically added below this comment -->
+    <item>
+        <title>Version 0.2.0-alpha3</title>
+        <sparkle:version>0.2.0-alpha3</sparkle:version>
+        <sparkle:shortVersionString>0.2.0-alpha3</sparkle:shortVersionString>
+        <sparkle:channel>alpha</sparkle:channel>
+        <pubDate>Fri, 06 Feb 2026 07:59:21 +0000</pubDate>
+        <enclosure
+            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.2.0-alpha3/DockPulse.dmg"
+            length="3451226"
+            type="application/x-apple-diskimage"
+            sparkle:edSignature="J1j3/VGBH2jt2tiwgOs1XlUfbS89W0mo7vauATqFS72Zwg8Wh5sBmL2vNsWFnMk6qe6GB1O6gLMX2SOi6H/RCQ==" />
+    </item>
     </channel>
 </rss>
