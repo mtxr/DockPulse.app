@@ -19,17 +19,6 @@
             type="application/x-apple-diskimage"
             sparkle:edSignature="+76Hr+VCpidavTgBnNnqt11HeTmHolJ4mWLyMTSoTi+sh/L12k+ywVnvVXvkhuctlfepJmhbkE4ArFDmZn2hCg==" />
     </item>
-    <item>
-        <title>Version 0.1.0</title>
-        <sparkle:version>1</sparkle:version>
-        <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-        <pubDate>Tue, 20 Jan 2026 23:07:46 +0000</pubDate>
-        <enclosure
-            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0/DockPulse.dmg"
-            length="2614241"
-            type="application/x-apple-diskimage"
-            sparkle:edSignature="+Qfk1KvhUXPwIkbsNUrNJNQaWD+aIu40m2pSwcNbrvWX96BcX6Mug3BPuzpJFbWWuD4na7nTH87sUd8+t6+BCQ==" />
-    </item>
 
     </channel>
 </rss>
