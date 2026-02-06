@@ -1,121 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>DockPulse</title>
+        <title>DockPulse Changelog</title>
         <link>https://mtxr.github.io/DockPulse.app/appcast.xml</link>
-        <description>Most recent updates for DockPulse</description>
+        <description>Most recent updates to DockPulse</description>
         <language>en</language>
 
         <!-- New releases will be automatically added below this comment -->
     <item>
         <title>Version 0.1.0</title>
-        <sparkle:version>0.1.0</sparkle:version>
+        <sparkle:version>1</sparkle:version>
         <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
         <pubDate>Tue, 20 Jan 2026 23:07:46 +0000</pubDate>
         <enclosure
-            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0/DockPulse-0.1.0.dmg"
+            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0/DockPulse.dmg"
             length="2614241"
             type="application/x-apple-diskimage"
             sparkle:edSignature="+Qfk1KvhUXPwIkbsNUrNJNQaWD+aIu40m2pSwcNbrvWX96BcX6Mug3BPuzpJFbWWuD4na7nTH87sUd8+t6+BCQ==" />
-    </item>
-    <item>
-        <title>Version 0.1.0-alpha10</title>
-        <sparkle:version>0.1.0-alpha10</sparkle:version>
-        <sparkle:shortVersionString>0.1.0-alpha10</sparkle:shortVersionString>
-        <pubDate>Tue, 20 Jan 2026 22:45:18 +0000</pubDate>
-        <enclosure
-            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0-alpha10/DockPulse-0.1.0-alpha10.dmg"
-            length="2614075"
-            type="application/x-apple-diskimage"
-            sparkle:edSignature="M3jRqz79Gdq7R2s/HHNpNRN++NY9bhqeXKgLt0qiZuGtO30LKAgPV7BCv24yFtNEaOxrVd4Vwq2GtjRN/ZCUAw==" />
-    </item>
-    <item>
-        <title>Version 0.1.0-alpha9</title>
-        <sparkle:version>9</sparkle:version>
-        <sparkle:shortVersionString>0.1.0-alpha9</sparkle:shortVersionString>
-        <pubDate>Tue, 20 Jan 2026 03:27:13 +0000</pubDate>
-        <enclosure
-            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0-alpha9/DockPulse-0.1.0-alpha9.dmg"
-            length="1906874"
-            type="application/x-apple-diskimage"
-            sparkle:edSignature="QUATacBYDZtOgcdz+D8TF4k+JVBnOti/2KkhUK1lZ+Wi9SadkMqdcS3gH8nebt9Bl0MU43oz4UDOpZYYaF+MBQ==" />
-    </item>
-    <item>
-        <title>Version 0.1.0-alpha8</title>
-        <sparkle:version>8</sparkle:version>
-        <sparkle:shortVersionString>0.1.0-alpha8</sparkle:shortVersionString>
-        <pubDate>Tue, 20 Jan 2026 00:58:31 +0000</pubDate>
-        <enclosure
-            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0-alpha8/DockPulse-0.1.0-alpha8.dmg"
-            length="1907088"
-            type="application/x-apple-diskimage"
-            sparkle:edSignature="sSvrMA319ZnkhE+N30dEigiEkqiMyXNiWDkgYll78+TyUxUDOUNFI9833sH+fvot3MvQfwGIlc31fupRQBjvDw==" />
-    </item>
-    <item>
-        <title>Version 0.1.0-alpha7</title>
-        <sparkle:version>7</sparkle:version>
-        <sparkle:shortVersionString>0.1.0-alpha7</sparkle:shortVersionString>
-        <pubDate>Mon, 19 Jan 2026 21:47:30 +0000</pubDate>
-        <enclosure
-            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0-alpha7/DockPulse-0.1.0-alpha7.dmg"
-            length="1907748"
-            type="application/x-apple-diskimage"
-            sparkle:edSignature="CPA9KhBp5QWIO4tVRaIPXNjWZg9PAe/snvjB2iKgv8Cw26+QtwroE1ddplqxcmgAWhPE9osb4Eg8Zn6Au3HGAw==" />
-    </item>
-    <item>
-        <title>Version 0.1.0-alpha6</title>
-        <sparkle:version>6</sparkle:version>
-        <sparkle:shortVersionString>0.1.0-alpha6</sparkle:shortVersionString>
-        <pubDate>Mon, 19 Jan 2026 17:48:19 +0000</pubDate>
-        <enclosure
-            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0-alpha6/DockPulse-0.1.0-alpha6.dmg"
-            length="1910610"
-            type="application/x-apple-diskimage"
-            sparkle:edSignature="g3ZMZf54ZOx/DcHKAFwtjF8PgD6yxO8NEOAbpSbBD1gDhSHjCcOrL9TSvFqzAKErZasSCwetX5XP/2CZkK05DQ==" />
-    </item>
-    <item>
-        <title>Version 0.1.0-alpha5</title>
-        <sparkle:version>5</sparkle:version>
-        <sparkle:shortVersionString>0.1.0-alpha5</sparkle:shortVersionString>
-        <pubDate>Mon, 19 Jan 2026 05:30:16 +0000</pubDate>
-        <enclosure
-            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0-alpha5/DockPulse-0.1.0-alpha5.dmg"
-            length="1910829"
-            type="application/x-apple-diskimage"
-            sparkle:edSignature="HUuFdJ039Jmp7BTZ4vuQP9xYTPFq0BF8RUgrvsLb2ej6HiBG7kefktuLnBK8uyddqo63A9oyns8M53GXadGZAg==" />
-    </item>
-    <item>
-        <title>Version 0.1.0-alpha4</title>
-        <sparkle:version>4</sparkle:version>
-        <sparkle:shortVersionString>0.1.0-alpha4</sparkle:shortVersionString>
-        <pubDate>Mon, 19 Jan 2026 03:14:43 +0000</pubDate>
-        <enclosure
-            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0-alpha4/DockPulse-0.1.0-alpha4.dmg"
-            length="1910591"
-            type="application/x-apple-diskimage"
-            sparkle:edSignature="qzxqp+S1s6Efj2XXiXkYOOdpxdUEb3b+/56E8Gds62qFaXNveKLZEwKqxH8O2KHZI7KJev2wUi7RjzG2ldhcDg==" />
-    </item>
-    <item>
-        <title>Version 0.1.0-alpha3</title>
-        <sparkle:version>3</sparkle:version>
-        <sparkle:shortVersionString>0.1.0-alpha3</sparkle:shortVersionString>
-        <pubDate>Mon, 19 Jan 2026 02:08:15 +0000</pubDate>
-        <enclosure
-            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0-alpha3/DockPulse-0.1.0-alpha3.dmg"
-            length="1910734"
-            type="application/x-apple-diskimage"
-            sparkle:edSignature="y+0StYp0SMejoot0ix71T+rZzhy3SOpe4srHCD+zRk52fGEK/j3PAqAtvbseCeyvd5BwL0KVoVmZK2fkfF0fCA==" />
-    </item>
-    <item>
-        <title>Version 0.1.0-alpha.2</title>
-        <sparkle:version>2</sparkle:version>
-        <sparkle:shortVersionString>0.1.0-alpha.2</sparkle:shortVersionString>
-        <pubDate>Sun, 18 Jan 2026 22:27:27 +0000</pubDate>
-        <enclosure
-            url="https://github.com/mtxr/DockPulse.app/releases/download/v0.1.0-alpha.2/DockPulse-0.1.0-alpha.2.dmg"
-            length="1452099"
-            type="application/x-apple-diskimage"
-            sparkle:edSignature="wULPMaf+yEGmPa8wSuKDIWM3u1e+NQsUmu52HudE964f4Ta43JrVzsZtsj7N7pzy86StMUHzC7SRRzLfINy8Dg==" />
     </item>
 
     </channel>
