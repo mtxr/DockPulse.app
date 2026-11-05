@@ -12,6 +12,35 @@
         <sparkle:version>20099</sparkle:version>
         <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
         <pubDate>Thu, 05 Nov 2026 10:37:44 -0300</pubDate>
+        <description><![CDATA[
+<h3>✨ New Features</h3>
+<ul>
+<li><b>app</b>: pinned apps, overflow group and configurable icon count (#22)</li>
+<li><b>ui</b>: add About screen showing version and license status (#3)</li>
+</ul>
+<h3>🐛 Bug Fixes</h3>
+<ul>
+<li><b>release</b>: stable goes to both appcasts, scoped changelog, single upfront confirmation (#31)</li>
+<li><b>sparkle</b>: default SPARKLE_FEED_URL so local builds have a feed (#29)</li>
+<li><b>appcast</b>: do not emit sparkle:channel in appcast entries (#30)</li>
+<li><b>ui</b>: update status bar from emitted badge values (#21)</li>
+<li><b>macos</b>: release AXUIElement references to stop Dock reader leak (#2)</li>
+</ul>
+<h3>⚡ Performance</h3>
+<ul>
+<li><b>app</b>: reduce refresh loop overhead and fix comparison docs (#19)</li>
+</ul>
+<h3>🔧 Improvements</h3>
+<ul>
+<li><b>xcode</b>: adopt Xcode 27 recommended project settings (#28)</li>
+</ul>
+<h3>📚 Documentation</h3>
+<ul>
+<li>correct Badgeify features in comparison table (#18)</li>
+<li>add competitor comparison, roadmap and performance principle (#15)</li>
+</ul>
+<p><b>Full Changelog</b>: <a href="https://github.com/mtxr/DockPulse/compare/v0.1.0...v0.2.0">https://github.com/mtxr/DockPulse/compare/v0.1.0...v0.2.0</a></p>
+        ]]></description>
         <enclosure
             url="https://github.com/mtxr/DockPulse.app/releases/download/v0.2.0/DockPulse.dmg"
             length="3923985"
